@@ -14,6 +14,7 @@ export const predefinedCities: City[] = [
   { name: "Miami", country: "United States", lat: 25.7617, lon: -80.1918 },
   { name: "Toronto", country: "Canada", lat: 43.6532, lon: -79.3832 },
   { name: "Vancouver", country: "Canada", lat: 49.2827, lon: -123.1207 },
+  { name: "Montreal", country: "Canada", lat: 45.5017, lon: -73.5673 },
   { name: "Mexico City", country: "Mexico", lat: 19.4326, lon: -99.1332 },
   
   // Europe
@@ -31,6 +32,10 @@ export const predefinedCities: City[] = [
   { name: "Dublin", country: "Ireland", lat: 53.3498, lon: -6.2603 },
   { name: "Athens", country: "Greece", lat: 37.9838, lon: 23.7275 },
   { name: "Istanbul", country: "Turkey", lat: 41.0082, lon: 28.9784 },
+  { name: "Zurich", country: "Switzerland", lat: 47.3769, lon: 8.5417 },
+  { name: "Lisbon", country: "Portugal", lat: 38.7223, lon: -9.1393 },
+  { name: "Warsaw", country: "Poland", lat: 52.2297, lon: 21.0122 },
+  { name: "Budapest", country: "Hungary", lat: 47.4979, lon: 19.0402 },
   
   // Asia
   { name: "Tokyo", country: "Japan", lat: 35.6762, lon: 139.6503 },
@@ -47,17 +52,22 @@ export const predefinedCities: City[] = [
   { name: "Bengaluru", country: "India", lat: 12.9716, lon: 77.5946 },
   { name: "Hyderabad", country: "India", lat: 17.3850, lon: 78.4867 },
   { name: "Dubai", country: "United Arab Emirates", lat: 25.2048, lon: 55.2708 },
+  { name: "Jakarta", country: "Indonesia", lat: -6.2088, lon: 106.8456 },
+  { name: "Manila", country: "Philippines", lat: 14.5995, lon: 120.9842 },
+  { name: "Taipei", country: "Taiwan", lat: 25.0330, lon: 121.5654 },
   
   // Oceania
   { name: "Sydney", country: "Australia", lat: -33.8688, lon: 151.2093 },
   { name: "Melbourne", country: "Australia", lat: -37.8136, lon: 144.9631 },
   { name: "Auckland", country: "New Zealand", lat: -36.8485, lon: 174.7633 },
+  { name: "Perth", country: "Australia", lat: -31.9505, lon: 115.8605 },
   
   // South America
   { name: "São Paulo", country: "Brazil", lat: -23.5505, lon: -46.6333 },
   { name: "Rio de Janeiro", country: "Brazil", lat: -22.9068, lon: -43.1729 },
   { name: "Buenos Aires", country: "Argentina", lat: -34.6037, lon: -58.3816 },
   { name: "Lima", country: "Peru", lat: -12.0464, lon: -77.0428 },
+  { name: "Santiago", country: "Chile", lat: -33.4489, lon: -70.6693 },
   
   // Africa
   { name: "Cape Town", country: "South Africa", lat: -33.9249, lon: 18.4241 },
