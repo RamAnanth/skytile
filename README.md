@@ -2,6 +2,9 @@
 
 A beautiful, modern weather visualization app that transforms real-time weather data into stunning AI-generated isometric 3D city scenes. Experience any city in the world through art powered by Google Gemini.
 
+![Demo: Side-by-side city comparison](./public/comparison-example.png)
+*Demo: Compare two cities side-by-side to see weather differences in real-time*
+
 [![Contributions Welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)](CONTRIBUTING.md)
 
 ## ✨ Features
@@ -24,6 +27,8 @@ Instantly teleport to a random city and see its weather visualized. Perfect for 
 
 #### 🔀 **Climate Contrast (Compare Cities)**
 Side-by-side comparison of two cities. See how weather differs across the globe in real-time.
+
+![Demo: City comparison feature](./public/comparison-example.png)
 
 ### 📱 Modern Design
 - Fully responsive - works beautifully on all devices
